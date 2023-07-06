@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDX&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
     
- ## Tecnologias que estudo atualmente!
+ ## Tecnologias e ferramentas que estudo atualmente!
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
