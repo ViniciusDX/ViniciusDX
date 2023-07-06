@@ -5,11 +5,13 @@
 - 🌱 Estudante Análise e desenvolvimento de sistemas
 - 📚 <a href="https://www.linkedin.com/company/academia-kaspper/" style="color:inherit; font-weight: bold; text-decoration: none; border-bottom: none;" target="_blank">Bootcamp kaspper academy</a>
 
-<div align="center">
+<div style="text-align: center;">
   <a href="https://github.com/ViniciusDX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDX&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDX&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDX&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de ViniciusDX"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDX&layout=compact&langs_count=7&theme=cobalt" alt="Linguagens Principais no GitHub de ViniciusDX"/>
+  </a>
 </div>
+
     
  ## Tecnologias e ferramentas que estudo atualmente!
 <div style="display: inline_block"><br>
