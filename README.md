@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Análise e desenvolvimento de sistemas
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 📚 <a href="https://www.linkedin.com/company/academia-kaspper/" style="color:inherit; font-weight: bold; text-decoration: none; border-bottom: none;" target="_blank">Bootcamp kaspper academy</a>
 
 <div style="text-align: center;">
